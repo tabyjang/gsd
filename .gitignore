@@ -5,3 +5,6 @@ TO-DOS.md
 CLAUDE.md
 .planning
 /research
+# Claude temp files
+tmpclaude-*
+.claude/
